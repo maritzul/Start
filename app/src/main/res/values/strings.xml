@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Start</string>
+
+    <string-array name="seconds">
+        <item>20 Seconds</item>
+        <item>30 Seconds</item>
+        <item>40 Seconds</item>
+        <item>50 Seconds</item>
+    </string-array>
+    <string name="title_activity_time_notif">TimeNotif</string>
+</resources>
