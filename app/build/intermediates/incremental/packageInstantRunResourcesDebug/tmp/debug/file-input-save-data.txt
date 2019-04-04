@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Apr 03 09:48:25 GMT 2019
+2.base=/home/inasul/AndroidStudioProjects/Start/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+5.set=ASSET
+0.path=eyesblack.gif
+2.baseType=DIRECTORY
+3.base=/home/inasul/AndroidStudioProjects/Start/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.set=ASSET
+1.path=eyesdark.gif
+4.base=/home/inasul/AndroidStudioProjects/Start/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+count=6
+5.baseType=DIRECTORY
+2.path=newblack.gif
+5.base=/home/inasul/AndroidStudioProjects/Start/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+4.set=ASSET
+3.path=120430.gif
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=blinks.gif
+1.baseType=DIRECTORY
+5.path=eyesblack-1.gif
+0.base=/home/inasul/AndroidStudioProjects/Start/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=/home/inasul/AndroidStudioProjects/Start/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+4.baseType=DIRECTORY
+0.set=ASSET
